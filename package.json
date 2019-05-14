@@ -1,0 +1,14 @@
+{
+  "name": "first_delivery",
+  "version": "1.0.1",
+  "description": "First Delivery Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Andres Garcia Grisales c.andres1349@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}

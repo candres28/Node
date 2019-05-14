@@ -1,0 +1,3 @@
+El estudiante Carlos
+con cedula: 1234
+se inscribió al curso de: JavaScript+Jquery con una duración de 94 horas y una valor de $ 340.000
